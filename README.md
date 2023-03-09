@@ -16,7 +16,7 @@ The robot follows a black line using an if-else statement. If the right sensor d
 
 ## Code
 
-The code is written in Objective C and is available in the "code" directory.
+The code is written in Objective C and is available in the "micromouse_line_follower" directory.
 
 ## Demo
 
