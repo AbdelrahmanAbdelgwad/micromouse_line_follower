@@ -20,4 +20,4 @@ The code is written in Objective C and is available in the "code" directory.
 
 ## Demo
 
-Check out a demo of the robot in action: [Video Link](https://www.youtube.com/watch?v=<insert-video-id-here>)
+Check out a demo of the robot in action: [Video Link](https://youtube.com/shorts/tZHbbBprDxs?feature=share)
